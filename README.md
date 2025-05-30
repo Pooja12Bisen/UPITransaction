@@ -32,5 +32,5 @@ It visualizes patterns, identifies transaction trends, and offers insights into 
 
 
 🤝 Let's Connect!
-👨‍💻 Linkdin Profile : Pooja's Profile
+👨‍💻 Linkdin Profile : https://www.linkedin.com/in/pooja-bisen-313238263/
 📧 Email: bisenpooja441801@gmail.com
