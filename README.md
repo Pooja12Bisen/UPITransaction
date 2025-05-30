@@ -32,5 +32,5 @@ It visualizes patterns, identifies transaction trends, and offers insights into 
 
 
 🤝 Let's Connect!
-👨‍💻 Maintained by: Pooja Bisen / https://github.com/Pooja12Bisen
+👨‍💻 Maintained by: Pooja's Profile
 📧 Email: bisenpooja441801@gmail.com
